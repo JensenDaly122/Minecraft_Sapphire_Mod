@@ -4,9 +4,10 @@ This is my first minecraft mod, I started making it because I wanna be able to c
 Added the following:
 
 - Sapphire 
-- Raw sapphire
-- Sapphire block 
-- Raw sapphire block
+- Raw Sapphire
+- Sapphire Block 
+- Raw Sapphire Block
+- Custom Creative Mode Tab
 
 Implemented crafting fully available for blocks and can be smelted in furnaces.
 
