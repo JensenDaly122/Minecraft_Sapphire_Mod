@@ -13,3 +13,7 @@ Implemented crafting fully available for blocks and can be smelted in furnaces.
 
 Hope you enjoy my first minecraft project!!!
 
+**Future Updates**
+
+- Planning on adding fulling working sapphire tools soon 
+- and armour
